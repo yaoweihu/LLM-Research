@@ -20,7 +20,6 @@ A summary of some useful resources in research.
 
 - **Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey**
   *Chen Ling, Xujiang Zhao, Jiaying Lu, Chengyuan Deng, Can Zheng, Junxiang Wang, Tanmoy Chowdhury, Yun Li, Hejie Cui, Xuchao Zhang, Tianjiao Zhao, Amit Panalkar, Wei Cheng, Haoyu Wang, Yanchi Liu, Zhengzhang Chen, Haifeng Chen, Chris White, Quanquan Gu, Jian Pei, Carl Yang, Liang Zhao.*
-
   *Emory University, NEC Labs America* [[pdf](https://arxiv.org/pdf/2305.18703.pdf)]
 
 ### LLM
