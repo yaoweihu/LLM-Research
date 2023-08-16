@@ -19,17 +19,17 @@ A summary of some useful resources in research.
 
 - **Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey**  
   *Emory University, NEC Labs America - 2023.05 - [[arxiv](https://arxiv.org/pdf/2305.18703.pdf)]*   
-  *Chen Ling, ..., Liang Zhao.*
+  *Chen Ling, Xujiang Zhao, Jiaying Lu, ..., Jian Pei, Carl Yang, Liang Zhao*
 
 ### Foundation Models
 
 - **LLaMA: Open and Efficient Foundation Language Models**  
   ![](https://img.shields.io/badge/Decoder_Only-orange) *Meta Research - 2023.02 - [[arxiv](https://arxiv.org/pdf/2302.13971.pdf)] - [[github](https://github.com/facebookresearch/llama)]*  
-  *Hugo Touvron, ..., Guillaume Lample*
+  *Armand Joulin, Edouard Grave, Guillaume Lample, ..., Armand Joulin, Edouard Grave, Guillaume Lample*
 
 - **PaLM: Scaling Language Modeling with Pathways**  
   ![](https://img.shields.io/badge/Decoder_Only-orange) *Google Research - 2022.04 - [[arxiv](https://arxiv.org/pdf/2204.02311.pdf)]*  
-  *Aakanksha Chowdhery, ..., Noah Fiedel*
+  *Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, ..., Douglas Eck, Jeff Dean, Slav Petrov, Noah Fiedel*
 
 - **GPT3: Language Models are Few-Shot Learners**  
   ![](https://img.shields.io/badge/Decoder_Only-orange) *OpenAI - 2020.05 - [[arxiv](https://arxiv.org/pdf/2005.14165.pdf)]*  
