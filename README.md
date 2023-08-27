@@ -11,7 +11,6 @@ A summary of some useful resources in research.
 
 ## Tutorial
 - [ACL 2023 Tutorial: Retrieval-based Language Models and Applications](https://acl2023-retrieval-lm.github.io/)
-
   
 ## Papers
 
@@ -20,6 +19,9 @@ A summary of some useful resources in research.
 - **Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey**  
   *Emory University, NEC Labs America - 2023.05 - [[arxiv](https://arxiv.org/pdf/2305.18703.pdf)]*   
   *Chen Ling, Xujiang Zhao, Jiaying Lu, ..., Jian Pei, Carl Yang, Liang Zhao*
+- **Current Best Practices for Tranining LLMs from Scratch**  
+  *Weights & Biases - 2023 - [[paper](https://uploads-ssl.webflow.com/5ac6b7f2924c656f2b13a88c/6435aabdc0a041194b243eef_Current%20Best%20Practices%20for%20Training%20LLMs%20from%20Scratch%20-%20Final.pdf)]*  
+  *Rebecca Li, Andrea Parker, Justin Tenuto*
 
 ### Foundation Models
 
