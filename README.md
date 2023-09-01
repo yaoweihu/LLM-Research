@@ -22,6 +22,10 @@ A summary of some useful resources in research.
 - **Current Best Practices for Tranining LLMs from Scratch**  
   *Weights & Biases - 2023 - [[paper](https://uploads-ssl.webflow.com/5ac6b7f2924c656f2b13a88c/6435aabdc0a041194b243eef_Current%20Best%20Practices%20for%20Training%20LLMs%20from%20Scratch%20-%20Final.pdf)]*  
   *Rebecca Li, Andrea Parker, Justin Tenuto*
+- **Unifying Large Language Models and Knowledge Graphs: A Roadmap**  
+  *Griffith University, Hefei University of Technology - 2023.06 - [[arxiv](https://arxiv.org/pdf/2306.08302.pdf)]*   
+  *Shirui Pan, Linhao Luo, Yufei Wang, Chen Chen, Jiapu Wang, Xindong Wu*
+  
 
 ### Foundation Models
 
