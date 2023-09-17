@@ -25,8 +25,8 @@ A summary of some useful resources in research.
 - **Unifying Large Language Models and Knowledge Graphs: A Roadmap**  
   *Griffith University, Hefei University of Technology - 2023.06 - [[arxiv](https://arxiv.org/pdf/2306.08302.pdf)]*   
   *Shirui Pan, Linhao Luo, Yufei Wang, Chen Chen, Jiapu Wang, Xindong Wu*
-- **The Rise and Potential of Large Language Model Based Agents: A Survey**
-  *Fudan NLP Group - 2023.09 - [[arxiv](https://arxiv.org/pdf/2309.07864.pdf)]* 
+- **The Rise and Potential of Large Language Model Based Agents: A Survey**  
+  *Fudan NLP Group - 2023.09 - [[arxiv](https://arxiv.org/pdf/2309.07864.pdf)]*   
   *Zhiheng Xi, Wenxiang Chen, Xin Guo, ..., Qi Zhang, Wenjuan Qin, Yongyan Zheng, Xipeng Qiu, Xuanjing Huang and Tao Gui*
   
 ### Foundation Models
