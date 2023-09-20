@@ -26,8 +26,11 @@ A summary of some useful resources in research.
   *Griffith University, Hefei University of Technology - 2023.06 - [[arxiv](https://arxiv.org/pdf/2306.08302.pdf)]*   
   *Shirui Pan, Linhao Luo, Yufei Wang, Chen Chen, Jiapu Wang, Xindong Wu*
 - **The Rise and Potential of Large Language Model Based Agents: A Survey**  
-  *Fudan NLP Group - 2023.09 - [[arxiv](https://arxiv.org/pdf/2309.07864.pdf)]*   
+  ![](https://img.shields.io/badge/Agent_Only-green) *Fudan NLP Group - 2023.09 - [[arxiv](https://arxiv.org/pdf/2309.07864.pdf)]*   
   *Zhiheng Xi, Wenxiang Chen, Xin Guo, ..., Qi Zhang, Wenjuan Qin, Yongyan Zheng, Xipeng Qiu, Xuanjing Huang and Tao Gui*
+- **A Survey on Fairness in Large Language Models**
+  ![](https://img.shields.io/badge/Ethics_Only-red) *Jilin University, New Jersey Institute of Technology - 2023.08 - [[arxiv](https://arxiv.org/abs/2308.10149)]*  
+  *Yingji Li, Mengnan Du, Rui Song, Xin Wang, Ying Wang*
   
 ### Foundation Models
 
