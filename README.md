@@ -35,7 +35,7 @@ A summary of some useful resources in research.
   ![](https://img.shields.io/badge/Ethics-blue) *ByteDance Research - 2023.08 - [[arxiv](https://browse.arxiv.org/pdf/2308.05374.pdf)]*  
   *Yang Liu, Yuanshun Yao, ..., Muhammad Faaiz Taufiq, Hang Li*
 - **Large Language Model Alignment: A Survey**  
-  ![](https://img.shields.io/badge/Alignment-green) *Tianjing University - 2023.09 - [[arxiv](https://browse.arxiv.org/pdf/2309.15025.pdf)]*  
+  ![](https://img.shields.io/badge/Alignment-red) *Tianjing University - 2023.09 - [[arxiv](https://browse.arxiv.org/pdf/2309.15025.pdf)]*  
   *Tianhao Shen Renren Jin Yufei Huang, ..., Xinwei Wu Yan Liu Deyi Xiong*  
   
 
