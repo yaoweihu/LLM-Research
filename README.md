@@ -32,8 +32,11 @@ A summary of some useful resources in research.
   ![](https://img.shields.io/badge/Ethics-blue) *Jilin University, New Jersey Institute of Technology - 2023.08 - [[arxiv](https://arxiv.org/abs/2308.10149)]*  
   *Yingji Li, Mengnan Du, Rui Song, Xin Wang, Ying Wang*
 - **Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment**  
-  [](https://img.shields.io/badge/Ethics-blue) *ByteDance Research - 2023.08 - [[arxiv](https://browse.arxiv.org/pdf/2308.05374.pdf)]*  
-  *Yang Liu, Yuanshun Yao, ..., Muhammad Faaiz Taufiq, Hang Li*  
+  ![](https://img.shields.io/badge/Ethics-blue) *ByteDance Research - 2023.08 - [[arxiv](https://browse.arxiv.org/pdf/2308.05374.pdf)]*  
+  *Yang Liu, Yuanshun Yao, ..., Muhammad Faaiz Taufiq, Hang Li*
+- **Large Language Model Alignment: A Survey**
+  ![](https://img.shields.io/badge/Alignment-red) *Tianjing University - 2023.09 - [[arxiv](https://browse.arxiv.org/pdf/2309.15025.pdf)]*  
+  *Tianhao Shen Renren Jin Yufei Huang, ..., Xinwei Wu Yan Liu Deyi Xiong*  
   
 
 ### Foundation Models
